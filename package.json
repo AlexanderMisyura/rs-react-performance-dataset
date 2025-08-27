@@ -1,0 +1,15 @@
+{
+  "name": "rs-react-performance-dataset",
+  "version": "1.0.0",
+  "description": "The dataset for learning react performance optimizations for rs school react course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMisyura/rs-react-performance-dataset.git"
+  },
+  "author": "Alexander Misyura",
+  "license": "MIT"
+}
