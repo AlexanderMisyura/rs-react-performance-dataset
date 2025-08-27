@@ -1,6 +1,6 @@
 {
   "name": "alexandermisyura_rs-react-performance__dataset",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "The dataset for learning react performance optimizations for rs school react course.",
   "main": "index.js",
   "type": "module",
